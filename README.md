@@ -3,7 +3,7 @@ Numerical Method self-study -- Jacobi and Gauss-Seidel:
 
 Example problem:
 -------------
-![](./Capture.png)
+![](./Capture.PNG)
 
 Reference:
 -------------
